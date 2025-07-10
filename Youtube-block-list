@@ -1,8 +1,8 @@
-# Youtube block list
+# YouTube block list
 # Created by Jay Appell - jappell@epomd.com
 # Updated 09JUL25
 
-# This list was created as a baseline for Youtube monitoring over a period of 8 hours. No Youtube interruptions were observed.
+# This list was created as a baseline for YouTube monitoring over a period of 8 hours. No YouTube interruptions were observed.
 
 rr1---sn-vgqsrn6e.googlevideo.com
 rr1---sn-hp57ynly.googlevideo.com
