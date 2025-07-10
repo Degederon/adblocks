@@ -1,0 +1,27 @@
+# Samsung Smart TV list, created from multiple sources and tested over 5 televions.
+# Updated 09JUL25
+
+# This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
+# There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
+# Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
+
+# If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/Degederon/adblocks
+
+ads.samsungads.com
+config.samsungads.com
+log-config.samsungacr.com
+events.samsungads.com
+samsungacr.com
+samsungqbe.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+lcprd1.samsungcloudsolution.net
+lcstg1.samsungcloudsolution.net
+gld.push.samsungosp.com
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+img-resize-cdn-prod.samsungnyc.com
+osb-v2.samsungqbe.com
+www.samsung.net/ads
+samsung.com/ads
+static.doubleclick.net6
+cdn.samsungcloudsolution.com
