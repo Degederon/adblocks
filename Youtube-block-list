@@ -1,8 +1,10 @@
 # YouTube block list
 # Created by Jay Appell - jappell@epomd.com
-# Updated 09JUL25
+# Updated 09JUL25 2238ET
 
 # This list was created as a baseline for YouTube monitoring over a period of 8 hours. No YouTube interruptions were observed.
+
+ads.youtube.com
 
 rr1---sn-vgqsrn6e.googlevideo.com
 rr1---sn-hp57ynly.googlevideo.com
