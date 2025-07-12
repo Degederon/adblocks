@@ -1,0 +1,30 @@
+# Facebook Ads-Only Blocklist for Pi-hole
+# Created on July 11, 2025
+# Description: Blocks domains associated with Facebook ads and tracking, while allowing www.facebook.com for core functionality.
+# Note: Test thoroughly to ensure no critical services (e.g., Facebook login, WhatsApp) are disrupted.
+# Source: Community-sourced lists and known Facebook ad domains
+# Add to Pi-hole via Group Management > Adlists > Add (paste this file's hosted URL or import locally)
+
+ads.facebook.com
+an.facebook.com
+creative.fb.com
+pixel.facebook.com
+analytics.facebook.com
+adsmanager.facebook.com
+tr.facebook.com
+badge.facebook.com
+*.atdmt.com
+*.fbcdn.net
+*.fbsbx.com
+connect.facebook.net
+graph.facebook.com
+staticxx.facebook.com
+scontent.xx.fbcdn.net
+external.xx.fbcdn.net
+platform-lookaside.fbsbx.com
+
+# Notes:
+# - Excludes www.facebook.com and *.facebook.com to preserve access to the main site and login services.
+# - Use Pi-hole's query log to identify additional ad-related domains if ads persist.
+# - Whitelist domains like api.facebook.com or whatsapp.net if app functionality breaks.
+# - Update this list periodically to capture new ad domains.
