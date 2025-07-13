@@ -1,17 +1,10 @@
 # Samsung Smart TV Ads-Only Blocklist for Pi-hole
-# Created on July 11, 2025
-# Description: Blocks 100 domains strictly tied to Samsung Smart TV ads and telemetry, excluding samsung.com and non-ad-related domains.
-# Note: Test apps (e.g., YouTube, Netflix) to ensure functionality. Whitelist if issues arise.
-# Source: Community-sourced lists (GitHub, Reddit), web research, prior user conversations
-# Add to Pi-hole via Group Management > Adlists > Add (paste this file's hosted URL or import locally)
+# Created on July 13, 2025
 
-0077777700140002.myhomescreen.tv
 abtauthprd.samsungcloudsolution.com
 abtauthprd.samsungcloudsolution.com 
 acr0.samsungcloudsolution.com
 acr0.samsungcloudsolution.com 
-ad.lgappstv.com
-ad.lgsmartad.com
 ad.nettvservices.com
 ad.samsungadhub.com
 ad.samsungadhub.com 
@@ -29,17 +22,9 @@ adserver.samsungcloud.tv
 adserver-eu.samsungads.com 
 adserver-us.samsungads.com 
 adtrack.samsungads.com 
-aic.cdpsvc.lgtvcommon.com
-aic.homeprv.lgtvcommon.com
-aic.netflixvoice.lgtvcommon.com
-aic.nudge.lgtvcommon.com
-aic.recommend.lgtvcommon.com
-aic.service.lgtvcommon.com
-aic-ngfts.lge.com
 amauthprd.samsungcloudsolution.com
 amauthprd.samsungcloudsolution.com 
 analytics.samsungcloud.tv 
-api.amazon.com 
 api.cid.samba.tv
 api-hub.samsungyosemite.com
 api-hub.samsungyosemite.com 
@@ -55,8 +40,6 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 call.me.sel.sony.com
 cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
-cdpbeacon.lgtvcommon.com
-cdpsvc.lgtvcommon.com
 collect.myhomescreen.tv
 collect-eu-fy2014.myhomescreen.tv
 collect-eu-fy2015.myhomescreen.tv
@@ -78,33 +61,12 @@ collect-us-fy2021.myhomescreen.tv
 collect-us-fy2022.myhomescreen.tv
 config.samsungads.com
 config.samsungads.com 
-coordinator-production-28516768.us-east-1.elb.amazonaws.com
-Coordinator-Production-28516768.us-east-1.elb.amazonaws.com 
 cpu.samsungelectronics.com
-d179kwmlpc4o47.cloudfront.net
-d179kwmlpc4o47.cloudfront.net 
-d1itljbfuaik2i.cloudfront.net 
-d1jwpcr0q4pcq0.cloudfront.net
-d1jwpcr0q4pcq0.cloudfront.net 
-d1oxlq5h9kq8q5.cloudfront.net
-d1oxlq5h9kq8q5.cloudfront.net 
-d2tnx644ijgq6i.cloudfront.net
-d2tnx644ijgq6i.cloudfront.net 
-d37ju0xanoz6gh.cloudfront.net
-d3mjsomixevyw7.cloudfront.net
-d3mjsomixevyw7.cloudfront.net 
 device-metrics-us.amazon.com
 device-metrics-us.amazon.com 
 dpu.samsungelectronics.com
 edgesuite.net
-eic.cdpsvc.lgtvcommon.com
-eic.homeprv.lgtvcommon.com
-eic.netflixvoice.lgtvcommon.com
-eic.nudge.lgtvcommon.com
-eic.recommend.lgtvcommon.com
-eic.service.lgtvcommon.com
 epu.samsungelectronics.com
-eu.api.amazonvideo.com 
 eu-auth2.samsungosp.com 
 events.cid.samba.tv
 events.samsungads.com
@@ -115,7 +77,6 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.com 
 fkp.samsungcloudsolution.net
 fkp.samsungcloudsolution.net 
-flingo.tv
 fpu.samsungelectronics.com
 game.internetat.tv
 game.internetat.tv 
@@ -126,25 +87,14 @@ gld.samsungosp.com
 googleads.g.doubleclick.net
 gpm.samsungqbe.com 
 gpu.samsungelectronics.com
-homeprv.lgtvcommon.com
 hpu.samsungelectronics.com
-ibis.lgappstv.com
-ibs.lgappstv.com
-img-resize-cdn-prod.samsungnyc.com
-img-resize-cdn-prod.samsungnyc.com 
-info.lgsmartad.com
 infolink.pavv.co.kr 
 ipu.samsungelectronics.com
-jp.ad.lgsmartad.com
-jp.info.lgsmartad.com
 jpu.samsungelectronics.com
 kpu.samsungelectronics.com
 lcprd1.samsungcloudsolution.net
 lcstg1.samsungcloudsolution.net
 legacyportal.nettvservices.com
-lgad.cjpowercast.com
-lgad.cjpowercast.com.edgesuite.net
-lgsmartad.com
 log.internetat.tv
 log.internetat.tv 
 log-1.samsungacr.com
@@ -160,7 +110,6 @@ log-ingestion.samsungacr.com
 log-ingestion-eu.samsungacr.com
 log-ingestion-eu.samsungacr.com 
 lpu.samsungelectronics.com
-mhc-sec-eu.myhomescreen.tv
 mhc-sec-us.myhomescreen.tv
 mpu.samsungelectronics.com
 musicid.samsungcloudsolution.com
@@ -172,7 +121,6 @@ noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com 
 npu.samsungelectronics.com
-nudge.lgtvcommon.com
 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com 
 oempprd.samsungcloudsolution.com
@@ -191,8 +139,6 @@ otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net 
 otnprd8.samsungcloudsolution.net 
 otnprd9.samsungcloudsolution.net 
-pavv.co.kr
-pavv.co.kr 
 pipeaota.com 
 pixel.samsungcloud.tv 
 pixeltrack.samsungads.com 
@@ -207,9 +153,6 @@ prov.samsungcloudsolution.com
 provisioning-use2.mgmt.aibixby.com 
 qpu.samsungelectronics.com
 rd.samsungadhub.com
-rdl.lgtvcommon.com
-rdx2.lgtvsdp.com
-recommend.lgtvcommon.com
 rpu.samsungelectronics.com
 rwww.samsungotn.net
 rwww.samsungotn.net 
@@ -250,10 +193,8 @@ sastv.samsungqbe.com
 sca.samsung.com
 scs.samsungqbe.com
 scs.samsungqbe.com 
-service.lgtvcommon.com
 smartclip.com
 smartclip.net
-smartshare.lgtvsdp.com
 sonybivstatic-a.akamaihd.net
 spu.samsungelectronics.com
 sso.internetat.tv
@@ -274,41 +215,9 @@ uimetadata.samsungiotcloud.com
 uimetadata.samsungiotcloud.com 
 unagi-na.amazon.com 
 upu.samsungelectronics.com
-us.ad.lgsmartad.com
-us.cdpbeacon.lgtvcommon.com
-us.cdpsvc.lgtvcommon.com
-us.homeprv.lgtvcommon.com
-us.ibs.lgappstv.com
-us.info.lgsmartad.com
-us.lgsmartad.com
-us.nudge.lgtvcommon.com
-us.rdl.lgtvcommon.com
-us.recommend.lgtvcommon.com
-us.service.lgtvcommon.com
 usage.myhomescreen.tv
-usage-eu-fy2014.myhomescreen.tv
-usage-eu-fy2015.myhomescreen.tv
-usage-eu-fy2016.myhomescreen.tv
-usage-eu-fy2017.myhomescreen.tv
-usage-eu-fy2018.myhomescreen.tv
-usage-eu-fy2019.myhomescreen.tv
-usage-eu-fy2020.myhomescreen.tv
-usage-eu-fy2021.myhomescreen.tv
-usage-eu-fy2022.myhomescreen.tv
-usage-us-fy2014.myhomescreen.tv
-usage-us-fy2015.myhomescreen.tv
-usage-us-fy2016.myhomescreen.tv
-usage-us-fy2017.myhomescreen.tv
-usage-us-fy2018.myhomescreen.tv
-usage-us-fy2019.myhomescreen.tv
-usage-us-fy2020.myhomescreen.tv
-usage-us-fy2021.myhomescreen.tv
-usage-us-fy2022.myhomescreen.tv
 us-api.samsungyosemite.com
 us-api.samsungyosemite.com 
-vd.contents.prod.eu.s3.amazonaws.com
-vd.emp.prd.s3.amazonaws.com
-vd.emp.prd.s3.amazonaws.com 
 vdterms.samsungcloudsolution.com
 vdterms.samsungcloudsolution.com 
 vpu.samsungelectronics.com
@@ -320,6 +229,7 @@ xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 yumenetworks.com
 zpu.samsungelectronics.com
+
 
 # Notes:
 # - Excludes samsung.com and subdomains (e.g., www.samsung.com, api.samsungcloud.com) to preserve app functionality and updates.
