@@ -4,7 +4,9 @@
 
 # This list was created as a baseline for YouTube monitoring over a period of 8 hours. No YouTube interruptions were observed.
 
+lh3.googleusercontent.com
 ads.youtube.com
+ogads-pa.clients6.google.com
 rr1---sn-hp57kn6r.googlevideo.com
 rr1---sn-hp57kn6y.googlevideo.com
 rr1---sn-hp57knd6.googlevideo.com
@@ -93,3 +95,4 @@ rr5---sn-hp57yns7.googlevideo.com
 rr5---sn-hp57ynsl.googlevideo.com
 rr5---sn-vgqsrnls.googlevideo.com
 www.googleadservices.com
+waa-pa.clients6.google.com
