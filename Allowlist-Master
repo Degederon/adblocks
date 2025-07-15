@@ -1,3 +1,9 @@
+# Allow list
+# Created by Jay Appell - jappell@epomd.com
+# Updated JULY 15,2025 1522ET
+
+# This list was created as a baseline for monitoring, Is updated daily since July 1, 2025. No YouTube interruptions were observed.
+
 accounts.google.com
 connect.facebook.net
 edge-mqtt.facebook.com
