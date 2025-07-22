@@ -4,6 +4,13 @@
 
 # This list was created as a baseline for monitoring, Is updated daily since July 1, 2025. No YouTube interruptions were observed.
 
+self.events.data.microsoft.com	
+gateway.icloud.com
+teams.events.data.microsoft.com	
+metrics.live.public.prod.ubiconnect.fleet.ubi.com	
+mask.icloud.com
+_dns.resolver.arpa	
+gs-loc.apple.com
 aax-us-iad.amazon.com
 accounts.google.com
 acr-us-prd.samsungcloud.tv
