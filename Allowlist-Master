@@ -1,6 +1,6 @@
 # Allow list
 # Created by Jay Appell - jappell@epomd.com
-# Updated JULY 20,2025 1522ET
+# Updated JULY 22,2025 1522ET
 
 # This list was created as a baseline for monitoring, Is updated daily since July 1, 2025. No YouTube interruptions were observed.
 
@@ -22,3 +22,7 @@ www.gstatic.com
 www.youtube.com
 capitaloneshopping.com
 www.capitaloneshopping.com
+star.c10r.facebook.com	
+gateway.facebook.com	
+www.messenger.com	
+star-mini.c10r.facebook.com
