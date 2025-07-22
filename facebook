@@ -1,5 +1,5 @@
 # Facebook Ads-Only Blocklist for Pi-hole
-# Created on July 11, 2025
+# Created on July 22, 2025
 # Description: Blocks domains associated with Facebook ads and tracking, while allowing www.facebook.com for core functionality.
 # Note: Test thoroughly to ensure no critical services (e.g., Facebook login, WhatsApp) are disrupted.
 # Source: Community-sourced lists and known Facebook ad domains
@@ -20,6 +20,7 @@ connect.facebook.net
 graph.facebook.com
 staticxx.facebook.com
 scontent.xx.fbcdn.net
+scontent-mia5-2.xx.fbcdn.net
 external.xx.fbcdn.net
 platform-lookaside.fbsbx.com
 
