@@ -1,6 +1,6 @@
 # YouTube block list
 # Created by Jay Appell - jappell@epomd.com
-# Updated JULY 15,2025 1522ET
+# Updated JULY 22,2025
 
 # This list was created as a baseline for YouTube monitoring, Is updated daily since July 1, 2025. No YouTube interruptions were observed.
 
@@ -192,5 +192,19 @@ rr5---sn-hp57ynly.googlevideo.com
 rr5---sn-hp57yns7.googlevideo.com
 rr5---sn-hp57ynsl.googlevideo.com
 rr5---sn-vgqsrnls.googlevideo.com
+rr1---sn-2ovgq5-cw.googlevideo.com	
+rr3---sn-hp57kn6r.googlevideo.com	
+rr4---sn-u1hp55-5c.googlevideo.com	
+rr2---sn-hp57kndd.googlevideo.com	
+rr3---sn-hp57kndz.googlevideo.com
+rr4---sn-u1hp55-5c.googlevideo.com	
+rr4---sn-hp57kn6r.googlevideo.com	
+rr2---sn-hp57knd6.googlevideo.com	
+rr1---sn-hp57knk7.googlevideo.com	
+rr3---sn-hp57ynse.googlevideo.com	
+rr3---sn-hp57kndy.googlevideo.com	
+rr5---sn-hp57yns7.googlevideo.com	
+rr5---sn-hp57ynly.googlevideo.com	
+rr3---sn-hp57knd6.googlevideo.com
 waa-pa.clients6.google.com
 www.googleadservices.com
