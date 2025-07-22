@@ -1,5 +1,5 @@
 # Samsung Smart TV Ads-Only Blocklist for Pi-hole
-# Created on July 13, 2025
+# Created on July 22, 2025
 
 abtauthprd.samsungcloudsolution.com
 abtauthprd.samsungcloudsolution.com 
@@ -61,6 +61,7 @@ collect-us-fy2021.myhomescreen.tv
 collect-us-fy2022.myhomescreen.tv
 config.samsungads.com
 config.samsungads.com 
+content-cdn.production-public.tubi.io
 cpu.samsungelectronics.com
 device-metrics-us.amazon.com
 device-metrics-us.amazon.com 
